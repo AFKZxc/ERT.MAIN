@@ -165,7 +165,7 @@ local function CreateGUI(title)
     end)
     agreeButton.MouseButton1Click:Connect(function()
         AnimateExit()
-脚本
+            loadstring(game:HttpGet("https://raw.githubusercontent.com/AFKZxc/ERT-MAIN/main/ERT%20Main%20script.lua",true))(
     end)
 end
 local myTitle = "ERT条款" 
